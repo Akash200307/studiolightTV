@@ -4,7 +4,10 @@ Turn an Android TV / Google TV into a solid-color light for video and photo shoo
 
 ## Download
 
-Download the **TV APK** and **phone APK** from the [1.0.0 preview release](https://github.com/Akash200307/studiolightTV/releases/tag/v1.0.0). Install Studio Light on your TV and Studio Light Control on your phone, then follow the pairing steps below.
+- **Android phone:** [Download Studio Light Control APK](https://github.com/Akash200307/studiolightTV/releases/download/v1.0.0/StudioLight-Phone-1.0.0-debug.apk) — Android 8.0 (API 26) or newer.
+- **Android TV / Google TV:** [Download Studio Light TV APK](https://github.com/Akash200307/studiolightTV/releases/download/v1.0.0/StudioLight-TV-1.0.0-debug.apk) — Android 6.0 (API 23) or newer.
+
+Both APKs are separate assets in the [1.0.0 preview release](https://github.com/Akash200307/studiolightTV/releases/tag/v1.0.0). Install Studio Light on your TV and Studio Light Control on your phone, then follow the pairing steps below.
 
 The preview APKs are debug-signed development builds for sideloading. They are not Play Store releases. Future builds signed with a different key require uninstalling the existing app first, which clears its saved settings and pairing.
 
