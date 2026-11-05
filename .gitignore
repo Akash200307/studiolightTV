@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+*.jks
+*.keystore
+/device-checks/
+.agents/
+.aws/
+.codex/
+*.apk
+*.aab
+*.log
+*.hprof
+.DS_Store

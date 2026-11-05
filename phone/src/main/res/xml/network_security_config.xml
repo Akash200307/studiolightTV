@@ -1,0 +1,5 @@
+<network-security-config>
+  <!-- Arbitrary private IPs cannot be expressed as CIDR here. LanEndpoint and
+       the TV peer check enforce local-address-only WebSockets in code. -->
+  <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
